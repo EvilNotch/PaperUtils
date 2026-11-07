@@ -12,10 +12,10 @@ Key functions/commands and requirements are given below:
   Includes a full set of Enderite Armor as well as its following Tools (Enderite Sword and Pickaxe)
   Custom Abilities of the armor will be discussed later.
 
-- **Sweet Crystals**
-  Includes the sweet crystals, which people can snort in, with a custom sound effect, and gives speed 10 boots.
+- **Sweet Crystals:**
+  Includes the sweet crystals, which people can snort in, with a custom sound effect, and gives Speed 10 boots.
 
-- **Bunch of foods**
+- **Bunch of foods:**
   Eh includes sushi, burgers, and more.
 
 
@@ -38,7 +38,7 @@ Gives the JailWand
 🔒 Permission required: moderator
 _Used to set or modify jail locations._
 
-Added Sweet crystals, with purity status (more purity if cooked more on Blast Furnace), to obtain, cook amythiest shard in a Blast Furnace.
+Added Sweet crystals with purity status (more purity if cooked longer in a Blast Furnace); cook amethyst shards in a Blast Furnace to obtain them.
 
 
 ## 🚀 Installation
